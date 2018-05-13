@@ -1,3 +1,2 @@
 # rubiks-cube
-This is a repository to collect all information for my Rubik's Cube Solver project to help me get a better understanding. 
-I am a Cyber Security student. 
+This is a repository for an OpenGL C program to solve the Rubik's Cube. 
